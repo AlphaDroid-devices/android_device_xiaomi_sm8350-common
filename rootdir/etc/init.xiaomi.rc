@@ -8,3 +8,6 @@
 on boot
     chown system system /sys/class/qcom-battery/restrict_chg
     chmod 0666 /sys/class/qcom-battery/restrict_chg
+
+    # Enable suspend to RAM
+    write /sys/power/mem_sleep "deep"
