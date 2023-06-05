@@ -24,6 +24,9 @@ vendor.panel.display          u:object_r:vendor_fp_prop:s0
 ro.miui.region                      u:object_r:exported_system_prop:s0
 ro.miui.build.region                u:object_r:exported_system_prop:s0
 
+# Power
+vendor.powerhal.                        u:object_r:vendor_power_prop:s0
+
 # Mlipay
 persist.vendor.sys.pay.                 u:object_r:vendor_mlipay_prop:s0
 persist.vendor.sys.provision.status     u:object_r:vendor_mlipay_prop:s0
