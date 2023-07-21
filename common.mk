@@ -99,7 +99,6 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     audio.bluetooth.default \
     libldacBT_abr \
-    libldacBT_bco \
     libldacBT_enc
 
 PRODUCT_PACKAGES += \
@@ -166,7 +165,6 @@ PRODUCT_PACKAGES += \
 
 PRODUCT_PACKAGES += \
     libdisplayconfig.qti \
-    libdisplayconfig.qti.vendor \
     libdisplayconfig.system.qti \
     libqdMetaData \
     libqdMetaData.system \
