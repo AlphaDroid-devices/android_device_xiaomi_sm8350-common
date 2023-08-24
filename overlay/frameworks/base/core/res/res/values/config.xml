@@ -473,7 +473,4 @@
         <item>com.google.android.gms/com.google.android.gms.chimera.GmsIntentOperationService$PersistentTrustedReceiver</item>
         <item>com.google.android.gms/com.google.android.gms.stats.service.DropBoxEntryAddedReceiver</item>
     </string-array>
-
-    <!-- Boost Framework -->
-    <bool name="config_supportsBoostFramework">true</bool>
 </resources>
