@@ -24,6 +24,7 @@ debug.force_no_blanking=true
 # Graphics
 debug.sf.disable_backpressure=1
 debug.sf.enable_hwc_vds=1
+ro.zygote.disable_gl_preload=false
 
 # IMS
 persist.dbg.volte_avail_ovr=1
